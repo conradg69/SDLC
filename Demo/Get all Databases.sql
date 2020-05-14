@@ -1,1 +1,1 @@
-SELECT top 6 * from sys.databases
+SELECT top 4 * from sys.databases
